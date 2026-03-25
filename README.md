@@ -23,7 +23,7 @@ External security and performance audit of [techoptima.ai](https://techoptima.ai
 
 | File | Description |
 |------|-------------|
-| [`walkthrough.md`](walkthrough.md) | Full audit report with 15 prioritized recommendations |
+| [`security-audit-report.md`](security-audit-report.md) | Full audit report with 15 prioritized recommendations |
 | [`output.md`](output.md) | Raw data collected during the audit (headers, DNS, responses) |
 
 ## Methodology
